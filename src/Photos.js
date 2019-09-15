@@ -35,7 +35,7 @@ export const photos = [
       height: 3
     },
     {
-      src: "images/_DSC7088.jpg",
+      src: "images/DSC7088.jpg",
       width: 3,
       height: 4
     },
@@ -52,22 +52,22 @@ export const photos = [
     //
     //
     {
-      src: "images/_DSC7094.jpg",
+      src: "images/DSC7094.jpg",
       width: 4,
       height: 3
     },
     {
-      src: "images/_MG_7802-01-01.jpeg",
+      src: "images/MG_7802-01-01.jpeg",
       width:4,
       height:3
     },
     {
-      src: "images/_DSC7110.jpg",
+      src: "images/DSC7110.jpg",
       width: 3,
       height: 4
     },
     {
-      src: "images/_DSC8064-01.jpeg",
+      src: "images/DSC8064-01.jpeg",
       width: 3,
       height:4
     },
@@ -92,7 +92,7 @@ export const photos = [
       height: 4
     },
     {
-      src: "images/_DSC7177-2.jpg",
+      src: "images/DSC7177-2.jpg",
       width: 3,
       height: 4
     },
@@ -119,7 +119,7 @@ export const photos = [
       height: 3
     },
     {
-      src: "images/_DSC7093.jpg",
+      src: "images/DSC7093.jpg",
       width: 3,
       height: 4
     },
@@ -174,7 +174,7 @@ export const photos = [
       height: 4
     },
     {
-      src: "images/_DSC8277-01.jpeg",
+      src: "images/DSC8277-01.jpeg",
       width: 4,
       height: 3
     }
